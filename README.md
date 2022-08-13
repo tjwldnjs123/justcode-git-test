@@ -14,7 +14,7 @@ commit한 내용 (head의 변경내용)을 remote repo(원격저장소)에 올�
 명령어: 
 git push <branch name> 
 ```
--Pull 
+- Pull 
 ```
 remote repo(원격저장소)의 내용을 local repo(로컬 저장소)에 반영한다.  
 fetch + merge의 기능이다.  
